@@ -1,5 +1,5 @@
 # Image-Processing
-使用OpenCv完成光學影像模擬、動態捕捉等目的 <br/>
+使用OpenCv完成生醫影像模擬、動態捕捉等目的 <br/>
 程式碼皆為python3之語法
 
 【動態捕捉】<br/>
